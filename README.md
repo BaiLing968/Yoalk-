@@ -3,7 +3,7 @@
 - 本库功能已经相对完善，如需按照自身需求更改，请看以下教程。
 - 本库专门适配了移动端主页！
 - 由于网站限制，教程内的双向链接无法使用，若是想要理解清楚，需要下载本库进行查看。
-- Yoalk库链接：[BaiLing968/Yoalk-: Yoalk示例库，由落滴子制作，欢迎各位朋友使用！ (github.com)](https://github.com/BaiLing968/Yoalk-)
+- Yoalk库链接：[BaiLing968/Yoalk-: Yoalk示例库，由落滴子制作，欢迎各位朋友使用！ (github.com)](https://github.com/BaiLing968/Yoalk-/releases/tag/Obsidian)
 ## 1 功能介绍
 ### 1.1 自动化人生管理流程
 1. 使用第二轨道，也就是右侧主页制作数据处理中心。
